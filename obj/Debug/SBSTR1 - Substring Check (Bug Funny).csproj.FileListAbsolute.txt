@@ -1,0 +1,7 @@
+D:\Users\fidalskik\source\repos\SBSTR1 - Substring Check (Bug Funny)\SBSTR1 - Substring Check (Bug Funny)\bin\Debug\SBSTR1 - Substring Check (Bug Funny).exe.config
+D:\Users\fidalskik\source\repos\SBSTR1 - Substring Check (Bug Funny)\SBSTR1 - Substring Check (Bug Funny)\bin\Debug\SBSTR1 - Substring Check (Bug Funny).exe
+D:\Users\fidalskik\source\repos\SBSTR1 - Substring Check (Bug Funny)\SBSTR1 - Substring Check (Bug Funny)\bin\Debug\SBSTR1 - Substring Check (Bug Funny).pdb
+D:\Users\fidalskik\source\repos\SBSTR1 - Substring Check (Bug Funny)\SBSTR1 - Substring Check (Bug Funny)\obj\Debug\SBSTR1 - Substring Check (Bug Funny).csproj.CoreCompileInputs.cache
+D:\Users\fidalskik\source\repos\SBSTR1 - Substring Check (Bug Funny)\SBSTR1 - Substring Check (Bug Funny)\obj\Debug\SBSTR1 - Substring Check (Bug Funny).exe
+D:\Users\fidalskik\source\repos\SBSTR1 - Substring Check (Bug Funny)\SBSTR1 - Substring Check (Bug Funny)\obj\Debug\SBSTR1 - Substring Check (Bug Funny).pdb
+D:\Users\fidalskik\source\repos\SBSTR1 - Substring Check (Bug Funny)\SBSTR1 - Substring Check (Bug Funny)\obj\Debug\SBSTR1 - Substring Check (Bug Funny).csprojResolveAssemblyReference.cache
